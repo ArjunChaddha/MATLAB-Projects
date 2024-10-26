@@ -1,17 +1,5 @@
-# extended-essay
-This is the code used for my mathematics extended essay.
+# MATLAB Projects
 
-FILE NAMES AND THEIR CORRESPONDING RESULT IN THE ESSAY
+This folder contains the code for my big MATLAB project where I quantified the chaotic behaviour of an n-pendulum. On Python, I created simulations for double, triple, and quadruple pendulums.
 
-sensitivedependenceplot - Used to generate figure 3.7                                        
-singleaperiodicbehaviour - Used to generate figure 3.2                                        
-doubleaperiodicbehaviour - Used to generate figure 3.3                                        
-tripleaperiodicbehaviour - Used to generate figure 3.4                                        
-quadrupleaperiodicbehaviour - Used to generate figure 3.5                                        
-singlependulumsimulation - no specific figure number, used to simulate the single pendulum                                        
-doublependulumsimulation - no specific figure number, used to simulate the double pendulum                                        
-triplependulumsimulation - no specific figure number, used to simulate the triple pendulum                                        
-quadruplependulumsimulation - no specific figure number, used to simulate the quadruple pendulum                                        
-timehorizonplotdouble - Used to generate figure 3.13                                        
-timehorizonplottriple - Used to generate figure 3.16                                        
-timehorizonplotquadruple - Used to generate figure 3.17                                        
+The files singlependulumsimulation, doublependulumsimulation, triplependulumsimulation, and quadruplependulumsimulation can be run to simulate pendulums. The other files are used to generate more technical quantitative data for my paper. You can find my research paper attached on this folder as well.                                 
